@@ -1,4 +1,4 @@
-Flot de couleurs
+#Flot de couleurs
 
 "Flot de couleurs" est un jeu de puzzle addictif développé en Java. Dans ce jeu, le joueur doit connecter des paires de points de même couleur en traçant des lignes pour remplir le plateau de jeu. Le but du jeu est de remplir toute la grille sans laisser de cases vides et en utilisant le moins de temps possible.
 
@@ -12,7 +12,7 @@ Comment jouer
     Continuez à connecter les paires de cases de même couleur jusqu'à remplir tout le plateau de jeu
     Le niveau est réussi lorsque toutes les cases sont remplies et le temps imparti n'est pas dépassé
 
-Installation
+#Installation
 
 Pour jouer à "Flot de couleurs", vous devez avoir Java installé sur votre ordinateur. Le jeu est compatible avec les systèmes d'exploitation Windows, Linux et Mac.
 
